@@ -1,4 +1,4 @@
-1name: ARMv8_Build
+name: ARMv8_Build
 
 on:
   workflow_dispatch:
